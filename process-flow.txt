@@ -1,0 +1,7 @@
+What are the details that I need to collect after signup and login.
+
+1 - I need to append the user role to the data being sent from the backend too.
+2 - I need to collect their default wallet / Bank account
+3 - I need to collect their account balance.
+4 - I need to collect their account number.
+5 - I need to collect their wallet address.
