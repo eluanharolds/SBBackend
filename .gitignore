@@ -8,5 +8,4 @@
 bin/
 obj/
 # Ignore Paystack keys or local secrets
-*.env
 appsettings*.json
